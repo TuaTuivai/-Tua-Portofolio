@@ -1,0 +1,51 @@
+header{
+display:block
+
+
+    }
+
+.h2{font-family: 'Courier New', Courier, monospace;
+       
+
+
+}
+
+/* Nav */
+li{
+    
+    display: inline-block;
+    margin: 10px;
+    padding:20px;
+    text-decoration:none;
+    font-size: large;
+    border-color: gold;
+    background-color: rgb(88, 137, 4);
+    }
+
+ .column-left{
+    margin-top: 10px;
+    display: block;
+    position: relative;
+    text-align: center;
+    padding:10px;
+    background-color: gold; 
+
+
+             }
+
+/* Sections */
+.column-right,
+.lower-column-right,
+.lowest-column-right{
+    position: relative;
+    text-align: right;
+    padding-bottom: 20px;
+    background-color: rgb(88, 137, 4);
+    padding-top: 10px;
+    margin: 30px;
+    
+
+
+
+}
+
