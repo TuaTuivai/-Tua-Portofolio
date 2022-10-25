@@ -1,6 +1,7 @@
 *{
     border: 1px solid black;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: black;
 }
 
 h1{
@@ -8,7 +9,7 @@ h1{
     font-size: xx-large;
 }   
 
-/* a{
+ a{
     font-size: large;
     margin: 1%;} */
 
